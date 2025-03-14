@@ -1,5 +1,5 @@
 {
-  "name": "ffmpeg-kit-ios-full-gpl",
+  "name": "spreen-ffmpeg-kit-ios-full-gpl",
   "version": "5.1",
   "summary": "FFmpeg Kit iOS Full GPL Shared Framework",
   "description": "Includes FFmpeg with dav1d, fontconfig, freetype, fribidi, gmp, gnutls, kvazaar, lame, libass, libilbc, libtheora, libvid.stab, libvorbis, libvpx, libwebp, zimg, libxml2, opencore-amr, opus, shine, snappy, soxr, speex, twolame, vo-amrwbenc, x264, x265 and xvidcore libraries enabled.",
