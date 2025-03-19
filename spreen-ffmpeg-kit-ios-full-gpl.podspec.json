@@ -17,7 +17,7 @@
   "requires_arc": true,
   "libraries": ["z", "bz2", "c++", "iconv"],
   "source": {
-    "http": "https://github.com/arthenica/ffmpeg-kit/releases/download/v6.0/ffmpeg-kit-full-gpl-6.0-ios-xcframework.zip"
+    "http": "https://github.com/yspreen/ffmpeg-kit-pod/releases/download/6.0/ffmpeg-kit-full-gpl-6.0-ios-xcframework.zip"
   },
   "ios": {
     "frameworks": ["AudioToolbox", "AVFoundation", "CoreMedia", "VideoToolbox"],
